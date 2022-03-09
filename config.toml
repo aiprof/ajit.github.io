@@ -1,11 +1,11 @@
 relativeURLs = true
-title = "Gautam Rao"
+title = "Ajit Sharma"
 theme = "academimal"
 sectionPagesMenu = "main"
 defaultContentLanguage = "en"
 ignorefiles = [ "hugo_travis_ci", ".travis.yml" ]
 
 [params]
-    shortbio = "Associate Professor of Economics, Harvard University"
+    shortbio = "Professor of Technology, Innovation and Entrepreneurship, Wayne State University"
     logo = "gr.jpg" 
     
